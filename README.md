@@ -128,3 +128,21 @@ __Data Lineage:__ Process of tracking the movement and transformation of data fr
 | --------- |
 | To set up Azure Databricks without a public subnet, we will choose "No Public IP" feature along with private endpoints. This will then allow us to deploy a secure and private deployment of Azure Databricks within VNet. |
 
+## __Azure Databricks Deployment using Terraform:-__
+
+Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Databricks-Insights-from-a-Platform-Engineer/tree/main/Terraform/01-Azure-Databricks
+
+## __Build a Spark Cluster and Run a Sample Notebook:-__
+
+Please Refer to:-
+
+## __Mounting ADLSv2 to Databricks Cluster:-__
+
+Please Refer to:-
+
+| __Reference Screenshots:- | 
+| --------- |
+| ![Mount-ADLS](https://github.com/user-attachments/assets/990384b6-aefa-4f07-8e70-ee4793d78778) |
+| ![View-All-Mount-Points](https://github.com/user-attachments/assets/f3853629-3b01-4278-b5ae-93d222bed605) | 
+| ![13-Unmount-ADLS](https://github.com/user-attachments/assets/e18044c7-89a4-4b61-8bde-072010392774) |
+
