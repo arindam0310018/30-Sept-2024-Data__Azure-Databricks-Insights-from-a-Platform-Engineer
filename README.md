@@ -174,6 +174,42 @@ Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Dat
 
 Unified data governance solution in Databricks that provides centralized access management, data lineage, and auditing across data assets, enabling secure, organized, and compliant data access across different data lakes and warehouses.
 
+| __Reference Screenshots:-__ | 
+| --------- |
+| ![16-Create-Metastore](https://github.com/user-attachments/assets/332a07b1-01a0-44df-89ff-b30eeeea7dc8) |
+| ![17-Metastore-ADLS-Config](https://github.com/user-attachments/assets/21fb035b-f437-4ead-b995-7ffe19d511bc) |
+| ![18-Metastore-Workspace-Config](https://github.com/user-attachments/assets/ec86033b-1fb9-4eb3-b3c0-58e4673d3e05) |
+
+| __Important to Note:-__ | 
+| --------- |
+| 1. Access Unity Catalog from: https://accounts.azuredatabricks.net/ |
+| 2. Only a single metastore per region is allowed. |
+
+| __Enable Unity Catalog?__ |
+| --------- |
+| Assigning the metastore will update workspaces to use Unity Catalog, meaning that:- |
+| 1. Data can be governed and accessed across workspaces. |
+| 2. Data access and lineage is captured automatically. |
+| 3. Identities are managed centrally at the account level (cannot be reversed). |
+
+## __Azure Databricks SCIM Connector:-__
+
+| __Important to Note:-__ | 
+| --------- |
+| 1. SCIM - System for Cross Domain Identity Management. |
+| 2. Use the SCIM token and Account SCIM URL to set up integration in your identity provider. |
+| 3. Follow the Option: https://accounts.azuredatabricks.net/ > Settings > User Provisioining > Setup user Provisioining |
+| 4. SCIM Token:  Token which will be used to perform user and group management operations. |
+| 5. Account SCIM URL: Provide this URL to your identity provider when you enable the User Provisioning via SCIM Tokens. |
+| 6. Follow the Option: Enterprise Application > Azure Databricks SCIM Provisioining Connector |
+
+| __Reference Screenshots:-__ | 
+| --------- |
+| ![image](https://github.com/user-attachments/assets/73f1ac95-2d43-4fc4-b044-a90c8e857c99) |
+| ![20-Az-Databricks-SCIM-Provisioning-Connector__Users-and-Groups](https://github.com/user-attachments/assets/f44b7fef-81ae-4029-9d17-590668867d19) |
+| ![21-Az-Databricks-SCIM-Provisioning-Connector__Provisioning](https://github.com/user-attachments/assets/899b8b1b-d953-44d1-bda8-7508de67f6f3) |
+
+
 ## __AzureRM Provider for Azure Databricks:-__
 
 Here you go: https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/databricks_workspace
