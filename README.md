@@ -134,11 +134,11 @@ Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Dat
 
 ## __Build a Spark Cluster and Run a Sample Notebook:-__
 
-Please Refer to:-
+Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Databricks-Insights-from-a-Platform-Engineer/blob/main/Python/Hello-World.py
 
 ## __Mounting ADLSv2 to Databricks Cluster:-__
 
-Please Refer to:-
+Please Refer to:- 
 
 | __Reference Screenshots:- | 
 | --------- |
