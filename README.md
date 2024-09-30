@@ -19,10 +19,11 @@ To illustrate this point, I've chosen Azure Databricks as an example for my spea
 | 9. | Azure Databricks Deployment using Terraform. |
 | 10. | Build a Spark Cluster and Run a Sample Notebook. |
 | 11. | Mounting ADLSv2 to Databricks Cluster. |
-| 12. | Connector for Azure Databricks. |
-| 13. | Pre-Requisites for Unity Catalog. |
-| 14. | Unity Catalog. |
-| 15. | Azure Databricks SCIM Connector. |
+| 12. | Workspace Backup. |
+| 13. | Connector for Azure Databricks. |
+| 14. | Pre-Requisites for Unity Catalog. |
+| 15. | Unity Catalog. |
+| 16. | Azure Databricks SCIM Connector. |
 
 ## __Lake House Medallion Architecture:-__
 
@@ -146,3 +147,6 @@ Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Dat
 | ![View-All-Mount-Points](https://github.com/user-attachments/assets/f3853629-3b01-4278-b5ae-93d222bed605) | 
 | ![13-Unmount-ADLS](https://github.com/user-attachments/assets/e18044c7-89a4-4b61-8bde-072010392774) |
 
+## __Workspace Backup:-__
+
+Please Refer to:- 
