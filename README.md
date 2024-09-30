@@ -24,6 +24,9 @@ To illustrate this point, I've chosen Azure Databricks as an example for my spea
 | 14. | Pre-Requisites for Unity Catalog. |
 | 15. | Unity Catalog. |
 | 16. | Azure Databricks SCIM Connector. |
+| 17. | AzureRM Provider for Azure Databricks. |
+| 18. | Databricks Terraform Provider. |
+
 
 ## __Lake House Medallion Architecture:-__
 
@@ -150,3 +153,33 @@ Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Dat
 ## __Workspace Backup:-__
 
 Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Databricks-Insights-from-a-Platform-Engineer/tree/main/Workspace-Backup
+
+## __Connector for Azure Databricks:-__
+
+| __Reference Screenshots:- | 
+| --------- |
+| Access Connector For Azure Databricks |
+| ![image](https://github.com/user-attachments/assets/26198f12-1860-4a92-a909-92338efcb35e) |
+| ![15-RBAC-on-SA-Dbks-Access-Connector](https://github.com/user-attachments/assets/3e244ad2-585c-4feb-b10a-d18a7cc4591e) |
+| __AzureRM Provider for Access Connector for Azure Databricks:__ https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/databricks_access_connector |
+
+## __Pre-Requisites for Unity Catalog:-__
+
+| __#__ | __Pre-Requisites__ |
+| 1. |  Account needs to have Global Administrator. |
+| 2. |  SKU - Premium. |
+
+## __Unity Catalog:-__
+
+Unified data governance solution in Databricks that provides centralized access management, data lineage, and auditing across data assets, enabling secure, organized, and compliant data access across different data lakes and warehouses.
+
+## __AzureRM Provider for Azure Databricks:-__
+
+Here you go: https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/databricks_workspace
+
+## __Databricks Terraform Provider:-__
+
+Here you go: https://registry.terraform.io/providers/databricks/databricks/latest/docs
+
+
+
