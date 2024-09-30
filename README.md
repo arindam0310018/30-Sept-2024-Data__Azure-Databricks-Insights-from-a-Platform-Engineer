@@ -166,6 +166,7 @@ Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Dat
 ## __Pre-Requisites for Unity Catalog:-__
 
 | __#__ | __Pre-Requisites__ |
+| --------- | --------- |
 | 1. |  Account needs to have Global Administrator. |
 | 2. |  SKU - Premium. |
 
