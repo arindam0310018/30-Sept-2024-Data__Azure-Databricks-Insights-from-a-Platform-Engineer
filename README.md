@@ -45,11 +45,11 @@ To illustrate this point, I've chosen Azure Databricks as an example for my spea
 | --------- | --------- | --------- | --------- |
 | 1. | Lambda | ![image](https://github.com/user-attachments/assets/3004804d-cae2-4c89-9634-dc0742bebce3) | Focuses on both batch and real-time streaming data. This Architecture represents 3 Layers:- i) __Batch Layer:__ Processes Batch Data; ii) __Speed Layer:__ Handles real-time data streams; iii) __Serving Layer:__ Combines results from the batch and speed layers to provide a unified view to end-users. |
 | 2. | Kappa | ![image](https://github.com/user-attachments/assets/d381929d-9641-4d1c-ae85-dea1e08ba3ae)| Focuses only on real-time streaming data. This Architecture represents 2 Layers:- i) __Speed Layer:__ Handles real-time data streams; ii) __Serving Layer:__ A Unified view to end-users from the results of the Speed layer. |
-| 3. | Data Lakehouse | ![image](https://github.com/user-attachments/assets/0099a5e2-6bd7-4efd-86bf-4cc0c8a73a2b) | --------- |
+| 3. | Data Lakehouse | ![image](https://github.com/user-attachments/assets/0099a5e2-6bd7-4efd-86bf-4cc0c8a73a2b) | to be updated |
 | 4. | Ingestion to Consumption Architecture (ETL/ELT) | ![image](https://github.com/user-attachments/assets/5c4d6b05-ce08-4058-ac79-f19ed137220b) | A traditional approach focusing on Extract, Transform, Load (ETL) or Extract, Load, Transform (ELT) processes. |
 | 5. | Data Mesh | ![image](https://github.com/user-attachments/assets/50234927-b606-46ba-9f50-848abfecf852) | A decentralized, domain-driven approach where each domain team manages its own data as a "product," promoting autonomy and self-service. |
-| 6. | Event Driven | ![image](https://github.com/user-attachments/assets/8ccf5dc1-5caa-4583-94aa-c010c839de34) | --------- |
-| 7. | Data Fabric | ![image](https://github.com/user-attachments/assets/07a4bdfb-5a2c-450e-98f6-8c2fd3f53257) | --------- |
+| 6. | Event Driven | ![image](https://github.com/user-attachments/assets/8ccf5dc1-5caa-4583-94aa-c010c839de34) | to be updated |
+| 7. | Data Fabric | ![image](https://github.com/user-attachments/assets/07a4bdfb-5a2c-450e-98f6-8c2fd3f53257) | to be updated |
 
 ## __Teams Involved:-__
 
