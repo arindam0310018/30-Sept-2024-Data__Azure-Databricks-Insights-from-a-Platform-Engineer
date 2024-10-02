@@ -56,7 +56,7 @@ To illustrate this point, I've chosen Azure Databricks as an example for my spea
 | __#__ | __Teams__ |
 | --------- | --------- |
 | 1. | Enterprise Architect. |
-| 2. | Dommain Architect. |
+| 2. | Domain Architect. |
 | 3. | Solutions Architect. |
 | 4. | Platform Engineers. |
 | 5. | Data Engineers. |
@@ -67,7 +67,7 @@ To illustrate this point, I've chosen Azure Databricks as an example for my spea
 | __#__ | __Teams__ | __Interaction__ | 
 | --------- | --------- |  --------- |
 | 1. | Enterprise Architect | Sets the strategic vision and ensures that all components align with the organization's objectives. | 
-| 2. | Dommain Architect | Focuses on domain-specific requirements, ensuring that the data architecture supports business needs and aligns with the vision of Enterprise Architect. |
+| 2. | Domain Architect | Focuses on domain-specific requirements, ensuring that the data architecture supports business needs and aligns with the vision of Enterprise Architect. |
 | 3. | Solutions Architect | Translates the requirements from Enterprise and Domain Architect into data platform's Technical solutions. | 
 | 4. | Platform Engineers | Builds the underlying infrastructure, providing the services and tools that the data engineering and data science teams require. |
 | 5. | Data Engineers | Implements data pipelines and ensures that data is readily available and in the required state for analysis. |
