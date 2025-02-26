@@ -30,7 +30,7 @@ To illustrate this point, I've chosen Azure Databricks as an example for my spea
 
 ## __Lake House Medallion Architecture:-__
 
-| ![image](https://github.com/user-attachments/assets/9cedcad2-84c6-411a-ab8e-e41432801b4d) |
+| <img src="Screenshots/1-Medallion-Architecture.jpg" |
 | --------- |
 
 | __#__ | __Lake House Medallion Architecture Layers__ | __Details__ |
