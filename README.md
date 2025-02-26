@@ -144,7 +144,7 @@ Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Dat
 
 Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Databricks-Insights-from-a-Platform-Engineer/blob/main/Python/Mount-Unmount-ADLS-Gen2.py
 
-| __Reference Screenshots:- | 
+| __Reference Screenshots:-__ | 
 | --------- |
 | <img src="Screenshots/11-Mount-ADLS.jpg"> |
 | <img src="Screenshots/12-View-All-Mount-Points.jpg"> | 
@@ -156,7 +156,7 @@ Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Dat
 
 ## __Connector for Azure Databricks:-__
 
-| __Reference Screenshots:- | 
+| __Reference Screenshots:-__ | 
 | --------- |
 | Access Connector For Azure Databricks |
 | <img src="Screenshots/14-Access-Connector-For-Azure-Databricks.jpg"> |
@@ -176,9 +176,9 @@ Unified data governance solution in Databricks that provides centralized access 
 
 | __Reference Screenshots:-__ | 
 | --------- |
-| ![16-Create-Metastore](https://github.com/user-attachments/assets/332a07b1-01a0-44df-89ff-b30eeeea7dc8) |
-| ![17-Metastore-ADLS-Config](https://github.com/user-attachments/assets/21fb035b-f437-4ead-b995-7ffe19d511bc) |
-| ![18-Metastore-Workspace-Config](https://github.com/user-attachments/assets/ec86033b-1fb9-4eb3-b3c0-58e4673d3e05) |
+| <img src="Screenshots/16-Create-Metastore.jpg"> |
+| <img src="Screenshots/17-Metastore-ADLS-Config.jpg"> |
+| <img src="Screenshots/18-Metastore-Workspace-Config.jpg"> |
 
 | __Important to Note:-__ | 
 | --------- |
@@ -198,25 +198,26 @@ Unified data governance solution in Databricks that provides centralized access 
 | --------- |
 | 1. SCIM - System for Cross Domain Identity Management. |
 | 2. Use the SCIM token and Account SCIM URL to set up integration in your identity provider. |
-| 3. Follow the Option: https://accounts.azuredatabricks.net/ > Settings > User Provisioining > Setup user Provisioining |
+| 3. Follow the Option: https://accounts.azuredatabricks.net/ > Settings > User Provisioining > Setup user Provisioining. |
 | 4. SCIM Token:  Token which will be used to perform user and group management operations. |
 | 5. Account SCIM URL: Provide this URL to your identity provider when you enable the User Provisioning via SCIM Tokens. |
-| 6. Follow the Option: Enterprise Application > Azure Databricks SCIM Provisioining Connector |
+| 6. Follow the Option: Enterprise Application > Azure Databricks SCIM Provisioining Connector. |
 
 | __Reference Screenshots:-__ | 
 | --------- |
-| ![image](https://github.com/user-attachments/assets/73f1ac95-2d43-4fc4-b044-a90c8e857c99) |
-| ![20-Az-Databricks-SCIM-Provisioning-Connector__Users-and-Groups](https://github.com/user-attachments/assets/f44b7fef-81ae-4029-9d17-590668867d19) |
-| ![21-Az-Databricks-SCIM-Provisioning-Connector__Provisioning](https://github.com/user-attachments/assets/899b8b1b-d953-44d1-bda8-7508de67f6f3) |
+| <img src="Screenshots/19-Az-Databricks-SCIM-Provisioning-Connector.jpg"> |
+| <img src="Screenshots/20-Az-Databricks-SCIM-Provisioning-Connector__Users-and-Groups.jpg"> |
+| <img src="Screenshots/21-Az-Databricks-SCIM-Provisioning-Connector__Provisioning.jpg"> | 
 
 
-## __AzureRM Provider for Azure Databricks:-__
+## __Terraform AzureRM Provider for Azure Databricks:-__
 
-Here you go: https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/databricks_workspace
+| Here you go: https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/databricks_workspace |
+| --------- |
 
-## __Databricks Terraform Provider:-__
+## __Terraform Provider for Databricks:-__
 
-Here you go: https://registry.terraform.io/providers/databricks/databricks/latest/docs
-
+| Here you go: https://registry.terraform.io/providers/databricks/databricks/latest/docs |
+| --------- |
 
 
