@@ -6,6 +6,21 @@ The immediate assumption might be the "Data Engineering Team." However, in my hu
 It's crucial to form the right team and clearly define roles and responsibilities from the outset. Doing so ensures that individuals remain motivated and committed to the project's success. 🙌
 To illustrate this point, I've chosen Azure Databricks as an example for my speaker session.😊
 
+I had the Privilege to talk on this topic in __TWO__ Azure Communities:-
+
+| __NAME OF THE AZURE COMMUNITY__ | __TYPE OF SPEAKER SESSION__ |
+| --------- | --------- |
+| __Microsoft Azure Zurich User Group __ | __In-Person__ |
+| __Microsoft Azure Bern User Group__ | __In-Person__ |
+
+| __EVENT ANNOUNCEMENTS:-__ |
+| --------- |
+| <img src="Screenshots/22-AZUG-Meetup.jpg"> |
+| __IN-PERSON SESSION:-__ |
+| <img src="Screenshots/23-AZUG-In-Person-Session.jpg"> |
+| __EVENT ANNOUNCEMENTS:-__ |
+| <img src="Screenshots/24-ABUG-Meetup.jpg"> |
+
 | __#__ | __Agenda__ |
 | --------- | --------- |
 | 1. | Lake House Medallion Architecture. |
