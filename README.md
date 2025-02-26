@@ -10,7 +10,7 @@ I had the Privilege to talk on this topic in __TWO__ Azure Communities:-
 
 | __NAME OF THE AZURE COMMUNITY__ | __TYPE OF SPEAKER SESSION__ |
 | --------- | --------- |
-| __Microsoft Azure Zurich User Group __ | __In-Person__ |
+| __Microsoft Azure Zurich User Group__ | __In-Person__ |
 | __Microsoft Azure Bern User Group__ | __In-Person__ |
 
 | __EVENT ANNOUNCEMENTS:-__ |
