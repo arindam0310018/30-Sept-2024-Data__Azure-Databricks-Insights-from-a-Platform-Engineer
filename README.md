@@ -45,11 +45,11 @@ To illustrate this point, I've chosen Azure Databricks as an example for my spea
 | --------- | --------- | --------- | --------- |
 | 1. | Lambda | <img src="Screenshots/2-Lambda-Architecture.jpg"> | Focuses on both batch and real-time streaming data. This Architecture represents 3 Layers:- i) __Batch Layer:__ Processes Batch Data; ii) __Speed Layer:__ Handles real-time data streams; iii) __Serving Layer:__ Combines results from the batch and speed layers to provide a unified view to end-users. |
 | 2. | Kappa | <img src="Screenshots/3-Kappa-Architecture.jpg"> | Focuses only on real-time streaming data. This Architecture represents 2 Layers:- i) __Speed Layer:__ Handles real-time data streams; ii) __Serving Layer:__ A Unified view to end-users from the results of the Speed layer. |
-| 3. | Data Lakehouse | <img src="Screenshots/4-Lake-House-Architecture.jpg"> | to be updated |
-| 4. | Ingestion to Consumption Architecture (ETL/ELT) | ![image](https://github.com/user-attachments/assets/5c4d6b05-ce08-4058-ac79-f19ed137220b) | A traditional approach focusing on Extract, Transform, Load (ETL) or Extract, Load, Transform (ELT) processes. |
-| 5. | Data Mesh | ![image](https://github.com/user-attachments/assets/50234927-b606-46ba-9f50-848abfecf852) | A decentralized, domain-driven approach where each domain team manages its own data as a "product," promoting autonomy and self-service. |
-| 6. | Event Driven | ![image](https://github.com/user-attachments/assets/8ccf5dc1-5caa-4583-94aa-c010c839de34) | to be updated |
-| 7. | Data Fabric | ![image](https://github.com/user-attachments/assets/07a4bdfb-5a2c-450e-98f6-8c2fd3f53257) | to be updated |
+| 3. | Data Lakehouse | <img src="Screenshots/4-Lake-House-Architecture.jpg"> | - |
+| 4. | Ingestion to Consumption Architecture (ETL/ELT) | <img src="Screenshots/5-Ingestion-to-Consumption-Architecture.jpg"> | A traditional approach focusing on Extract, Transform, Load (ETL) or Extract, Load, Transform (ELT) processes. |
+| 5. | Data Mesh | <img src="Screenshots/6-Data-Mesh-Architecture.jpg"> | A decentralized, domain-driven approach where each domain team manages its own data as a "product," promoting autonomy and self-service. |
+| 6. | Event Driven | <img src="Screenshots/7-Event-Driven-Architecture.jpg"> | - |
+| 7. | Data Fabric | <img src="Screenshots/8-Data-Fabric.jpg"> | - |
 
 ## __Teams Involved:-__
 
@@ -77,13 +77,13 @@ To illustrate this point, I've chosen Azure Databricks as an example for my spea
 
 | __ETL (Extract Transfer and Load)__ |
 | --------- |
-| ![image](https://github.com/user-attachments/assets/b88f2cff-ddb9-4195-8925-3fe0fe6ca56d) |
+| <img src="Screenshots/9-ETL.jpg"> |
 | Data is Extracted from Source System and Business Logic/Transformation is applied to it. |
 | Processed Data is loaded into Data Warehouse for consumption. |
 
 | __ELT (Extract Load and Transfer)__ |
 | --------- |
-| ![image](https://github.com/user-attachments/assets/441bf29c-2c46-465e-a1b1-9f0fae51f7c2) |
+| <img src="Screenshots/10-ELT.jpg"> |
 | This is a mordern Approach. |
 | Data is Extracted from Source System and loaded in Data Warehouse in Raw Format. |
 | Tranformation is carried out in Data Warehouse it-self. |
@@ -146,9 +146,9 @@ Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Dat
 
 | __Reference Screenshots:- | 
 | --------- |
-| ![Mount-ADLS](https://github.com/user-attachments/assets/990384b6-aefa-4f07-8e70-ee4793d78778) |
-| ![View-All-Mount-Points](https://github.com/user-attachments/assets/f3853629-3b01-4278-b5ae-93d222bed605) | 
-| ![13-Unmount-ADLS](https://github.com/user-attachments/assets/e18044c7-89a4-4b61-8bde-072010392774) |
+| <img src="Screenshots/11-Mount-ADLS.jpg"> |
+| <img src="Screenshots/12-View-All-Mount-Points.jpg"> | 
+| <img src="Screenshots/13-Unmount-ADLS.jpg"> |
 
 ## __Workspace Backup:-__
 
@@ -159,8 +159,8 @@ Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Dat
 | __Reference Screenshots:- | 
 | --------- |
 | Access Connector For Azure Databricks |
-| ![image](https://github.com/user-attachments/assets/26198f12-1860-4a92-a909-92338efcb35e) |
-| ![15-RBAC-on-SA-Dbks-Access-Connector](https://github.com/user-attachments/assets/3e244ad2-585c-4feb-b10a-d18a7cc4591e) |
+| <img src="Screenshots/14-Access-Connector-For-Azure-Databricks.jpg"> |
+| <img src="Screenshots/15-RBAC-on-SA-Dbks-Access-Connector.jpg"> |
 | __AzureRM Provider for Access Connector for Azure Databricks:__ https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/databricks_access_connector |
 
 ## __Pre-Requisites for Unity Catalog:-__
