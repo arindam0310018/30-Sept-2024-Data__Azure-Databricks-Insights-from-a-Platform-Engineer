@@ -42,7 +42,7 @@ I had the Privilege to talk on this topic in __TWO__ Azure Communities:-
 | 17. | Unity Catalog. |
 | 18. | Azure Databricks SCIM Connector. |
 | 19. | Azure Databricks Repos. |
-| 20. | Azure Databricks SCIM Workflows. |
+| 20. | Azure Databricks Workflows. |
 
 ## __Lake House Medallion Architecture:-__
 
