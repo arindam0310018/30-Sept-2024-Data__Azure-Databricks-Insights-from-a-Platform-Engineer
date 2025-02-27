@@ -259,8 +259,8 @@ Unified data governance solution in Databricks that provides centralized access 
 
 ## __Azure Databricks Workflows:-__
 
-| --------- |
-| 1. Fully mananged Orchestration Services integrated with Databricks Platform. |
-| 2. It allows to build reliable and maintainable Data Processing Pipelines. |
-| <img src="Screenshots/29-Az-Dbks-Workflows.jpg"> |
+Fully mananged Orchestration Services integrated with Databricks Platform.
+It allows to build reliable and maintainable Data Processing Pipelines.
 
+| <img src="Screenshots/29-Az-Dbks-Workflows.jpg"> |
+| --------- |
