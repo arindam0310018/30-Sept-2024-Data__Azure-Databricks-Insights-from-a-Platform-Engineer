@@ -147,9 +147,20 @@ __Data Lineage:__ Process of tracking the movement and transformation of data fr
 | --------- |
 | To set up Azure Databricks without a public subnet, we will choose "No Public IP" feature along with private endpoints. This will then allow us to deploy a secure and private deployment of Azure Databricks within VNet. |
 
+## __Terraform AzureRM Provider for Azure Databricks:-__
+
+| Here you go: https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/databricks_workspace |
+| --------- |
+
+## __Terraform Provider for Databricks:-__
+
+| Here you go: https://registry.terraform.io/providers/databricks/databricks/latest/docs |
+| --------- |
+
 ## __Azure Databricks Deployment using Terraform:-__
 
-Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Databricks-Insights-from-a-Platform-Engineer/tree/main/Terraform/01-Azure-Databricks
+| Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Databricks-Insights-from-a-Platform-Engineer/tree/main/Terraform/01-Azure-Databricks |
+| --------- |
 
 ## __Build a Spark Cluster and Run a Sample Notebook:-__
 
@@ -176,7 +187,7 @@ Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Dat
 | Access Connector For Azure Databricks |
 | <img src="Screenshots/14-Access-Connector-For-Azure-Databricks.jpg"> |
 | <img src="Screenshots/15-RBAC-on-SA-Dbks-Access-Connector.jpg"> |
-| __AzureRM Provider for Access Connector for Azure Databricks:__ https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/databricks_access_connector |
+| __Terraform AzureRM Provider for Access Connector for Azure Databricks:__ https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/databricks_access_connector |
 
 ## __Pre-Requisites for Unity Catalog:-__
 
@@ -224,15 +235,18 @@ Unified data governance solution in Databricks that provides centralized access 
 | <img src="Screenshots/20-Az-Databricks-SCIM-Provisioning-Connector__Users-and-Groups.jpg"> |
 | <img src="Screenshots/21-Az-Databricks-SCIM-Provisioning-Connector__Provisioning.jpg"> | 
 
+## __Azure Databricks Repos:-__
 
-## __Terraform AzureRM Provider for Azure Databricks:-__
-
-| Here you go: https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/databricks_workspace |
+| __What you CAN do:-__ | 
 | --------- |
+| 1. Clone, Push and Pull from Remote GIT Repo. |
+| 2. Create and Manage Branches. |
+| 3. Create and Edit Notebooks in the Branches. |
+| 4. Compare differences upon Commit |
 
-## __Terraform Provider for Databricks:-__
-
-| Here you go: https://registry.terraform.io/providers/databricks/databricks/latest/docs |
+| __What you CANNOT do:-__ | 
 | --------- |
-
-
+| 1. Create Pull Request. |
+| 2. Resolve Merge Conflict. |
+| 3. Merge and Delete Branches. |
+| 4. Rebase a branch. |
