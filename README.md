@@ -264,6 +264,10 @@ Unified data governance solution in Databricks that provides centralized access 
 | <img src="Screenshots/33-Az-Dbks-Commit-Github-Error.jpg"> |
 | Below is how it looks, when __successfully pushed to remote Guthub Repository__. |
 | <img src="Screenshots/34-Az-Dbks-Commit-Github-Success.jpg"> |
+| Status of __Azure Databricks Repo:-__ |
+| <img src="Screenshots/35-Az-Dbks-Repo-Status.jpg"> |
+| Status of __Github Repo:-__ |
+| <img src="Screenshots/36-Github-Repo-Status.jpg"> |
 
 ## __Azure Databricks Workflows:-__
 
