@@ -250,3 +250,9 @@ Unified data governance solution in Databricks that provides centralized access 
 | 2. Resolve Merge Conflict. |
 | 3. Merge and Delete Branches. |
 | 4. Rebase a branch. |
+
+| __Reference Screenshots:-__ | 
+| --------- |
+| <img src="Screenshots/26-Az-Dbks-Github-Repo.jpg"> |
+| <img src="Screenshots/27-Az-Dbks-Repo.jpg"> |
+| <img src="Screenshots/28-Az-Dbks-Repo-Created.jpg"> | 
