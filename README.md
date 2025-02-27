@@ -262,6 +262,8 @@ Unified data governance solution in Databricks that provides centralized access 
 | <img src="Screenshots/28-Az-Dbks-Repo-Created.jpg"> | 
 | If __Azure Databricks and Github Integration__ is NOT done using __Linked Accounts__, then below error is encountered when we create Notebook in Azure Databricks Repo and try to push it to remote Guthub Repository. | 
 | <img src="Screenshots/33-Az-Dbks-Commit-Github-Error.jpg"> |
+| Below is how it looks, when __successfully pushed to remote Guthub Repository__. |
+| <img src="Screenshots/34-Az-Dbks-Commit-Github-Success.jpg"> |
 
 ## __Azure Databricks Workflows:-__
 
