@@ -183,6 +183,8 @@ Please Refer to:- https://github.com/arindam0310018/30-Sept-2024-Data__Azure-Dat
 
 ## __Connector for Azure Databricks:-__
 
+An Access Connector for Azure Databricks is a managed identity-based bridge that securely connects Azure Databricks to other Azure services like Azure Storage (Blob, ADLS Gen2), Azure SQL, or Event Hubs without needing to manage credentials manually.
+
 | __Reference Screenshots:-__ | 
 | --------- |
 | Access Connector For Azure Databricks |
