@@ -31,17 +31,18 @@ I had the Privilege to talk on this topic in __TWO__ Azure Communities:-
 | 6. | Factors Contributing to Shift from ETL to ELT. |
 | 7. | Azure Databricks Introduction. |
 | 8. | Azure Databricks Networking. |
-| 9. | Azure Databricks Deployment using Terraform. |
-| 10. | Build a Spark Cluster and Run a Sample Notebook. |
-| 11. | Mounting ADLSv2 to Databricks Cluster. |
-| 12. | Workspace Backup. |
-| 13. | Connector for Azure Databricks. |
-| 14. | Pre-Requisites for Unity Catalog. |
-| 15. | Unity Catalog. |
-| 16. | Azure Databricks SCIM Connector. |
-| 17. | AzureRM Provider for Azure Databricks. |
-| 18. | Databricks Terraform Provider. |
-
+| 9. | AzureRM Provider for Azure Databricks. |
+| 10. | Databricks Terraform Provider. |
+| 11. | Azure Databricks Deployment using Terraform. |
+| 12. | Build a Spark Cluster and Run a Sample Notebook. |
+| 13. | Mounting ADLSv2 to Databricks Cluster. |
+| 14. | Workspace Backup. |
+| 15. | Connector for Azure Databricks. |
+| 16. | Pre-Requisites for Unity Catalog. |
+| 17. | Unity Catalog. |
+| 18. | Azure Databricks SCIM Connector. |
+| 19. | Azure Databricks Repos. |
+| 20. | Azure Databricks SCIM Workflows. |
 
 ## __Lake House Medallion Architecture:-__
 
