@@ -254,6 +254,9 @@ Unified data governance solution in Databricks that provides centralized access 
 
 | __Reference Screenshots:-__ | 
 | --------- |
+| <img src="Screenshots/30-Github-Personal-Access-Token.jpg"> |
+| <img src="Screenshots/31-Az-Dbks-Github-Linked-Accounts.jpg"> |
+| <img src="Screenshots/32-Az-Dbks-Github-Linked-Accounts-Saved.jpg"> | 
 | <img src="Screenshots/26-Az-Dbks-Github-Repo.jpg"> |
 | <img src="Screenshots/27-Az-Dbks-Repo.jpg"> |
 | <img src="Screenshots/28-Az-Dbks-Repo-Created.jpg"> | 
