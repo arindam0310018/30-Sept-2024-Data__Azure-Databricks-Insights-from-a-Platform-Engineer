@@ -277,6 +277,6 @@ It allows to build reliable and maintainable Data Processing Pipelines.
 | <img src="Screenshots/29-Az-Dbks-Workflows.jpg"> |
 | --------- |
 | <img src="37-Az-Dbks-Workflows.jpg"> |
-| <img src="38-Az-Dbks-Workflows-Tasks.jpg" >
+| <img src="38-Az-Dbks-Workflows-Tasks.jpg"> | 
 | <img src="39-Az-Dbks-Workflows-Runs.jpg"> |
 
