@@ -20,6 +20,8 @@ I had the Privilege to talk on this topic in __TWO__ Azure Communities:-
 | <img src="Screenshots/23-AZUG-In-Person-Session.jpg"> |
 | __EVENT ANNOUNCEMENTS:-__ |
 | <img src="Screenshots/24-ABUG-Meetup.jpg"> |
+| __IN-PERSON SESSION:-__ |
+| <img src="Screenshots/40-ABUG-In-Person-Session.jpg"> |
 
 | __#__ | __Agenda__ |
 | --------- | --------- |
@@ -264,9 +266,9 @@ Unified data governance solution in Databricks that provides centralized access 
 | <img src="Screenshots/26-Az-Dbks-Github-Repo.jpg"> |
 | <img src="Screenshots/27-Az-Dbks-Repo.jpg"> |
 | <img src="Screenshots/28-Az-Dbks-Repo-Created.jpg"> | 
-| If __Azure Databricks and Github Integration__ is NOT done using __Linked Accounts__, then below error is encountered when we create Notebook in Azure Databricks Repo and try to push it to remote Guthub Repository. | 
+| If __Azure Databricks and Github Integration__ is NOT done using __Linked Accounts__, then below error is encountered when we create Notebook in Azure Databricks Repo and try to push it to remote Github Repository. | 
 | <img src="Screenshots/33-Az-Dbks-Commit-Github-Error.jpg"> |
-| Below is how it looks, when __successfully pushed to remote Guthub Repository__. |
+| Below is how it looks, when __successfully pushed to remote Github Repository__. |
 | <img src="Screenshots/34-Az-Dbks-Commit-Github-Success.jpg"> |
 | Status of __Azure Databricks Repo:-__ |
 | <img src="Screenshots/35-Az-Dbks-Repo-Status.jpg"> |
